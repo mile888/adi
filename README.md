@@ -1,6 +1,6 @@
 # ADH: Composite Vision
 
-Applied Data Hackathon 2022.
+Applied Data Hackathon 2022. \b
 Composite Vision team project on segmenting defects in CT scans of composite material parts.
 
 # Problem
