@@ -1,6 +1,6 @@
 # ADH: Composite Vision
 
-Advanced Data Hackathon 2022 - Track 4: Bring your own idea.
+Applied Data Hackathon 2022.
 Composite Vision team project on segmenting defects in CT scans of composite material parts.
 
 # Problem
