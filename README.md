@@ -32,14 +32,13 @@ Annotations:
 Segmentation map:
 ![](images/segmentation.png)
 
-U-Net model:
-![](images/UNet.png)
-
-
 
 # Model
 
-Modified U-Net model which we proposed 
+In this task, we have employed a modified U-Net architecture. The proposed architecture is illustrated below. 
+
+U-Net model:
+![](images/UNet.png)
 
 
 
