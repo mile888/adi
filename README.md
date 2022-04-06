@@ -18,18 +18,22 @@ In this project, we are working on a computer vision model capable of segmenting
 
 # Data
 
-The data consists of CT images of several composite parts. There are 2 parts of the data:
+The data consists of CT images of several composite parts:
 
-* 32 sample grayscale PNG images with annotations in COCO polygon format.
+* 200 sample grayscale PNG images with annotations in VOC polygon format.
   [Link](https://disk.yandex.ru/d/9WPI8wIcv91VtA) to Yandex disk (24 Mb)
-* 6578 raw CT scans in TIFF format without annotation.
-  [Link](https://disk.yandex.ru/d/lCnMKMlmBfsGnQ) to Yandex disk (36 Gb)
 
 Image:
 ![](images/sample.jpg)
 
 Annotations:
 ![](images/annotated.jpg)
+
+Segmentation map:
+![](images/segmentation map.jpg)
+
+
+
 # Tasks
 
 Here're several tasks that we should assign to the team members.
