@@ -30,7 +30,7 @@ Annotations:
 ![](images/annotated.jpg)
 
 Segmentation map:
-![](images/segmentation map.jpg)
+![](images/segmentation map.png)
 
 
 
