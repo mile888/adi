@@ -30,7 +30,10 @@ Annotations:
 ![](images/annotated.jpg)
 
 Segmentation map:
-![](images/segmentation map.jpg)
+![](images/segmentation.png)
+
+U-Net model:
+![](images/UNet.png)
 
 
 
