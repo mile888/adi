@@ -44,6 +44,6 @@ U-Net model:
 
 # Tools and resources
 
-For image labeling we used [LabelMe](https://pypi.org/project/labelme/).
+For image labeling is used [LabelMe](https://pypi.org/project/labelme/).
 
 For model prototyping -- Pytorch and torchvision.
